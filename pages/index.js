@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to test iq!" />
         <p className="description">
-          Mari kita mulai!! <code>test iq</code>
+          Mari kita mulai!! <code>"test iq"</code>
         </p>
       </main>
 
