@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to test iq!" />
         <p className="description">
-          Mari kita mulai <code>pages/index.js</code>
+          Mari kita mulai!
         </p>
       </main>
 
